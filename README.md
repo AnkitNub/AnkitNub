@@ -14,6 +14,6 @@
   <img src='https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg' width=55px height=55px>
   <img src='https://github.com/devicons/devicon/raw/master/icons/python/python-plain.svg' width=55px height=55px>
   <img src='https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg' width=55px height=55px>
-	<img src='https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg' width=55px height=55px>
+  <img src='https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg' width=55px height=55px>
   <img src='https://github.com/devicons/devicon/raw/master/icons/java/java-plain.svg' width=55px height=55px>
 </p>
