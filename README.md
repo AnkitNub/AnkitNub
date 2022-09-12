@@ -3,7 +3,7 @@
 - 🎓 I'm a Senior Computer Science student at Savitribai Phule Pune University.
 - 🏠 I'm from Nagpur, India and I'm interested to be a Software Developer.
 - 👨‍💻 I'm 3 ⭐ on CodeChef and solved over 300+ DSA questions on multiple platforms.
-- 🌱 I’m currently learning Angular.js.
+- 🌱 I’m currently learning React-Hooks.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankit-choudhary-646146197/).
 
 ## Skills
