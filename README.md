@@ -3,7 +3,7 @@
 - 🎓 I'm a Senior Computer Science student at Savitribai Phule Pune University.
 - 🏠 I'm from Nagpur, India and I'm a FullStack Developer.
 - 👨‍💻 I'm 3 ⭐ on CodeChef and solved over 300+ DSA questions on multiple platforms.
-- 🌱 I’m currently open to opportunities and actively looking for a internship.
+- 🌱 I’m currently looking for an internship and open to opportunities.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankit-choudhary-646146197/).
 
 ## Skills
