@@ -1,4 +1,4 @@
-## Hi, I'm Ankit <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/waving-hand_1f44b.png" width="30px">
+## Hi, I'm Ankit 👋
 
 - 🎓 I'm a Senior Computer Science student at Savitribai Phule Pune University.
 - 🏠 I'm from Nagpur, India and I'm a FullStack Developer.
