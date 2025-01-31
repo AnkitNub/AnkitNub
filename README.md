@@ -1,6 +1,6 @@
 ## Hi, I'm Ankit 👋
 
-- 🎓 I'm a Senior Computer Science student at Savitribai Phule Pune University.
+- 🎓 I'm a Computer Science graduate from Savitribai Phule Pune University.
 - 🏠 I'm from Nagpur, India and I'm a FullStack Developer.
 - 🌱 I’m currently working as a frontend developer.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankit-choudhary-646146197/).
