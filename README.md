@@ -2,7 +2,7 @@
 
 - 🎓 I'm a Computer Science graduate from Savitribai Phule Pune University.
 - 🏠 I'm from Nagpur, India and I'm a FullStack Developer.
-- 🌱 I’m currently working as a frontend developer.
+- 🌱 I work as a Freelance FullStack web Developer.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankit-choudhary-646146197/).
 
 ## Skills
