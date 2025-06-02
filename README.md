@@ -22,7 +22,6 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' width=55px height=55px alt="PostgreSQL">
   <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg' width=55px height=55px alt="Docker">
   <img src='https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' width=55px height=55px alt="AWS">
-  <img src='https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg' width="55px" height="55px" alt="Git"/>
   <img src='https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg' width="55px" height="55px" alt="Jenkins"/>
   <img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' width="55px" height="55px" alt="Tailwind CSS"/>
   <img src='https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg' width="55px" height="55px" alt="Redux"/>
