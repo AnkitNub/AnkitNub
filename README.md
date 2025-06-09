@@ -2,7 +2,7 @@
 
 - 🎓 I'm a Computer Science graduate from Savitribai Phule Pune University.
 - 🏠 I'm from Nagpur, India and I'm a FullStack Developer.
-- 🌱 I work as a Freelance FullStack web Developer.
+- 🌱 Currently working as a Freelance Full-Stack Developer, building scalable and responsive web applications from concept to deployment.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankitnub).
 
 ## Stats
