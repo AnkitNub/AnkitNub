@@ -2,8 +2,8 @@
 
 - 🎓 I'm a Computer Science graduate from Savitribai Phule Pune University.
 - 🏠 I'm from Nagpur, India and I'm a FullStack Developer.
-- 🌱 Currently working as a Freelance Full-Stack Developer, building scalable and responsive web applications from concept to deployment.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankitnub).
+- 💻 Previously worked as a Software Engineer at Telstra.
+- 🌱 Currently a Freelance Full-Stack Developer, building responsive and scalable web apps from concept to launch.
 
 ## Stats
 <div align="center">
@@ -28,4 +28,11 @@
   <img src='https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain.svg' width="55px" height="55px" alt="Firebase"/>
   <img src='https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original.svg' width="55px" height="55px" alt="Pandas"/>
 </p>
-
+<div align="center">
+  📫 How to reach me -
+  <br>
+  <br>
+  <a href="mailto:workankitnub@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
