@@ -2,7 +2,7 @@
 
 - 🎓 I'm a Computer Science graduate from Savitribai Phule Pune University.
 - 🏠 I'm from Nagpur, India and I'm a FullStack Developer.
-- 💻 Previously worked as a Software Engineer at Telstra.
+- 💻 Previously worked as a Software Engineer at Sabertooth Tech.
 - 🌱 Currently a Freelance Full-Stack Developer, building responsive and scalable web apps from concept to launch.
 
 ## Stats
