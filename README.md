@@ -5,12 +5,6 @@
 - 💻 Previously worked as a Software Engineer at Sabertooth Tech.
 - 🌱 Currently a Freelance Full-Stack Developer, building responsive and scalable web apps from concept to launch.
 
-## Stats
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ankitnub&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" /></a>
-</div>
-
-
 ## Languages and tools
 <p align="center">
   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width=55px height=55px alt="Python">
